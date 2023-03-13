@@ -1,1 +1,2 @@
 # Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning
+I discovered insights and made business recommendations based on machine learning models about the effectiveness of an advertisement used by the company. To identify patterns and trends in customer behavior and ad performance, I utilized data analysis and machine learning techniques. Additionally, I provided the company with insights and recommendations to improve ad targeting, ad performance, and return on investment.
